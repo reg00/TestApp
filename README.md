@@ -1,11 +1,4 @@
-## Emphasis
+## Запись сайта0)
 
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
+Вот тут
+И тут
